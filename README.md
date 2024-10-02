@@ -47,7 +47,7 @@ This project provides a comprehensive HR analysis dashboard, visualizing key emp
 ## How to Use
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/hr-analysis-dashboard.git
+   git clone https://github.com/Shambhu7714/HR-Analysis-Dashboard.git
    ```
 2. Navigate to the project directory and explore the analysis code or load the dashboard into your preferred BI tool (e.g., Power BI, Tableau).
 
