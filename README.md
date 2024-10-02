@@ -4,7 +4,8 @@
 
 This project provides a comprehensive HR analysis dashboard, visualizing key employee metrics such as attrition rate, employee distribution by age and department, job satisfaction, and more. The data analysis aims to provide insights into attrition trends, age distribution, and educational background impacts on employee retention.
 
-https://github.com/Shambhu7714/HR-Analysis-Dashboard/blob/main/HR-Analysis-Dashboard.pdf
+![227393478-6a0d75ab-b6e8-41ef-8894-7ea529191153](https://github.com/user-attachments/assets/28530913-1bd9-49a4-a65c-09f9edd1e913)
+
 
 ## Dashboard Highlights
 
